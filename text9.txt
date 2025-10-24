@@ -1,1 +1,3 @@
 create text9.txt file
+First Line
+Second Line
